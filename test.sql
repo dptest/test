@@ -1,2 +1,2 @@
 Some kind of test
-select * from SomeTable
+select * from SomeTable;
